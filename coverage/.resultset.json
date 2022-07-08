@@ -247,6 +247,8 @@
           1,
           1,
           1,
+          1,
+          null,
           null
         ]
       },
@@ -270,22 +272,15 @@
           null
         ]
       },
-      "/Users/nikkyrojas/turing/2mod/solo_project/solo_project_hospitals/app/models/doctor.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
       "/Users/nikkyrojas/turing/2mod/solo_project/solo_project_hospitals/app/controllers/hospitals_controller.rb": {
         "lines": [
           1,
           1,
-          0,
+          1,
           null,
           null,
           1,
-          null,
+          1,
           null,
           null
         ]
@@ -297,6 +292,6 @@
         ]
       }
     },
-    "timestamp": 1657288357
+    "timestamp": 1657291930
   }
 }
